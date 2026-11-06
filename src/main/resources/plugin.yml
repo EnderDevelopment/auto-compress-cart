@@ -1,0 +1,8 @@
+name: AutoCompress
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  compress:
+    description: Open the auto-compression menu.
+    usage: /compress
